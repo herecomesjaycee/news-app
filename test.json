@@ -1,0 +1,113 @@
+{
+	"response": {
+		"status": "ok",
+		"userTier": "developer",
+		"total": 91824,
+		"startIndex": 1,
+		"pageSize": 10,
+		"currentPage": 1,
+		"pages": 9183,
+		"orderBy": "newest",
+		"results": [{
+			"id": "politics/blog/live/2017/feb/16/politics-live-readers-edition-thursday-16-february",
+			"type": "liveblog",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-16T14:49:51Z",
+			"webTitle": "Politics Live - readers' edition: Thursday 16 February",
+			"webUrl": "https://www.theguardian.com/politics/blog/live/2017/feb/16/politics-live-readers-edition-thursday-16-february",
+			"apiUrl": "https://content.guardianapis.com/politics/blog/live/2017/feb/16/politics-live-readers-edition-thursday-16-february",
+			"isHosted": false
+		}, {
+			"id": "politics/2017/feb/16/ukip-leader-paul-nuttall-condemned-for-failing-to-attend-hustings",
+			"type": "article",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-16T14:42:35Z",
+			"webTitle": "Ukip leader Paul Nuttall condemned for failing to attend hustings",
+			"webUrl": "https://www.theguardian.com/politics/2017/feb/16/ukip-leader-paul-nuttall-condemned-for-failing-to-attend-hustings",
+			"apiUrl": "https://content.guardianapis.com/politics/2017/feb/16/ukip-leader-paul-nuttall-condemned-for-failing-to-attend-hustings",
+			"isHosted": false
+		}, {
+			"id": "politics/2017/feb/16/whats-it-like-being-a-woman-in-uk-politics",
+			"type": "article",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-16T14:14:21Z",
+			"webTitle": "What's it like being a woman in UK politics?",
+			"webUrl": "https://www.theguardian.com/politics/2017/feb/16/whats-it-like-being-a-woman-in-uk-politics",
+			"apiUrl": "https://content.guardianapis.com/politics/2017/feb/16/whats-it-like-being-a-woman-in-uk-politics",
+			"isHosted": false
+		}, {
+			"id": "politics/2017/feb/16/women-plan-lass-war-protest-at-northern-powerhouse-conference",
+			"type": "article",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-16T11:41:51Z",
+			"webTitle": "Women plan 'Lass War' protest at northern powerhouse conference",
+			"webUrl": "https://www.theguardian.com/politics/2017/feb/16/women-plan-lass-war-protest-at-northern-powerhouse-conference",
+			"apiUrl": "https://content.guardianapis.com/politics/2017/feb/16/women-plan-lass-war-protest-at-northern-powerhouse-conference",
+			"isHosted": false
+		}, {
+			"id": "politics/2017/feb/16/socialist-meps-leader-mps-who-defied-corbyn-on-brexit-were-correct",
+			"type": "article",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-16T11:07:21Z",
+			"webTitle": "Socialist MEPs' leader: MPs who defied Corbyn on Brexit were 'correct'",
+			"webUrl": "https://www.theguardian.com/politics/2017/feb/16/socialist-meps-leader-mps-who-defied-corbyn-on-brexit-were-correct",
+			"apiUrl": "https://content.guardianapis.com/politics/2017/feb/16/socialist-meps-leader-mps-who-defied-corbyn-on-brexit-were-correct",
+			"isHosted": false
+		}, {
+			"id": "politics/2017/feb/16/tory-frontbencher-greg-hands-hints-remove-john-bercow-speaker-trump",
+			"type": "article",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-16T09:37:57Z",
+			"webTitle": "Tory frontbencher hints that he backs effort to remove John Bercow",
+			"webUrl": "https://www.theguardian.com/politics/2017/feb/16/tory-frontbencher-greg-hands-hints-remove-john-bercow-speaker-trump",
+			"apiUrl": "https://content.guardianapis.com/politics/2017/feb/16/tory-frontbencher-greg-hands-hints-remove-john-bercow-speaker-trump",
+			"isHosted": false
+		}, {
+			"id": "politics/2017/feb/15/french-senate-report-uk-must-not-be-better-off-after-brexit",
+			"type": "article",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-15T20:40:27Z",
+			"webTitle": "French senate report says UK must not be better off after Brexit",
+			"webUrl": "https://www.theguardian.com/politics/2017/feb/15/french-senate-report-uk-must-not-be-better-off-after-brexit",
+			"apiUrl": "https://content.guardianapis.com/politics/2017/feb/15/french-senate-report-uk-must-not-be-better-off-after-brexit",
+			"isHosted": false
+		}, {
+			"id": "politics/2017/feb/15/liverpool-mayor-calls-on-paul-nuttall-to-resign-as-mep-over-hillsborough-claims",
+			"type": "article",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-15T19:00:38Z",
+			"webTitle": "Liverpool mayor calls on Paul Nuttall to resign as MEP over Hillsborough claims",
+			"webUrl": "https://www.theguardian.com/politics/2017/feb/15/liverpool-mayor-calls-on-paul-nuttall-to-resign-as-mep-over-hillsborough-claims",
+			"apiUrl": "https://content.guardianapis.com/politics/2017/feb/15/liverpool-mayor-calls-on-paul-nuttall-to-resign-as-mep-over-hillsborough-claims",
+			"isHosted": false
+		}, {
+			"id": "politics/2017/feb/15/brexit-diaries-its-a-relief-that-things-are-starting-to-move",
+			"type": "article",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-15T18:12:16Z",
+			"webTitle": "Brexit diaries: 'It’s a relief that things are starting to move'",
+			"webUrl": "https://www.theguardian.com/politics/2017/feb/15/brexit-diaries-its-a-relief-that-things-are-starting-to-move",
+			"apiUrl": "https://content.guardianapis.com/politics/2017/feb/15/brexit-diaries-its-a-relief-that-things-are-starting-to-move",
+			"isHosted": false
+		}, {
+			"id": "politics/blog/live/2017/feb/15/politics-live-readers-edition-wednesday-15-february",
+			"type": "liveblog",
+			"sectionId": "politics",
+			"sectionName": "Politics",
+			"webPublicationDate": "2017-02-15T16:32:50Z",
+			"webTitle": "Politics Live - readers' edition: Wednesday 15 February",
+			"webUrl": "https://www.theguardian.com/politics/blog/live/2017/feb/15/politics-live-readers-edition-wednesday-15-february",
+			"apiUrl": "https://content.guardianapis.com/politics/blog/live/2017/feb/15/politics-live-readers-edition-wednesday-15-february",
+			"isHosted": false
+		}]
+	}
+}
